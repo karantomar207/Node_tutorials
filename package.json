@@ -1,0 +1,27 @@
+{
+  "name": "node-tuts",
+  "version": "1.0.0",
+  "description": "Hello this is Node Learning Tut",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karantomar207/Node_tutorials.git"
+  },
+  "keywords": [
+    "Node",
+    "Tuts"
+  ],
+  "author": "Karan Singh Tomar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karantomar207/Node_tutorials/issues"
+  },
+  "homepage": "https://github.com/karantomar207/Node_tutorials#readme",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "colors": "^1.4.0"
+  }
+}
